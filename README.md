@@ -43,11 +43,10 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sswird&theme=dark&border_radius=10&background=450%2C000000%2C451919&fire=EB0000" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=sswird&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sswird&show_icons=true&theme=tokyonight&hide_border=true" alt="sswird's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sswird&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sswird&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
